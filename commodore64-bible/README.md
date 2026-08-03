@@ -4,191 +4,222 @@
 
 ## The Complete Reverse Engineering Project
 
-**Learn how it worked.
-Understand why it worked.
-Build what comes next.**
+![Commodore 64 Bible](docs/assets/logo-placeholder.png)
+
+> **Learn how it worked.
+> Understand why it worked.
+> Build what comes next.**
 
 ---
 
-## What is the Commodore 64 Bible?
+# Introduction
 
-The **Commodore 64 Bible** is an open, research-driven project dedicated to understanding, documenting, preserving and teaching the architecture, programming techniques and engineering practices of the Commodore 64.
+The Commodore 64 Bible is a living technical research project dedicated to understanding, documenting and preserving the knowledge behind one of the most influential computers ever created.
 
-This is not simply another programming tutorial, code archive or emulator guide.
+It is not simply a collection of programming examples.
 
-It is an attempt to build a complete technical reference that explains **how the Commodore 64 really worked**, from the 6510 CPU to the VIC-II, SID, CIA chips, memory banking, raster interrupts, sprite multiplexing, loaders, compression techniques and the advanced programming methods used in commercial games and demos of the 1980s and 1990s.
+It is an attempt to build a complete technical reference that explains:
 
-Beyond documenting existing knowledge, this project also aims to rediscover, analyze and explain undocumented techniques, forgotten programming tricks, unconventional design solutions and hardware behaviors that allowed programmers to push the Commodore 64 far beyond its original limits.
+**how the Commodore 64 really worked.**
+
+From the 6510 CPU to the VIC-II graphics chip, from the SID sound synthesizer to the CIA interfaces, from memory banking to raster interrupts, sprite multiplexing, fast loaders, compression techniques and the advanced programming methods used in commercial games and demos of the 1980s and 1990s.
 
 But this project goes one step further.
 
-It seeks to reconstruct the knowledge that was never formally documented:
+---
 
-forgotten programming techniques;
-reverse engineered algorithms;
-undocumented hardware behaviors;
-optimization tricks;
-design patterns hidden inside commercial software;
-and the engineering ideas that allowed programmers to achieve results once considered impossible on an 8-bit computer.
+# Beyond the Documentation
 
-Our goal is to preserve not only the code, but the **thinking process of the programmers who created it**.
+Most books teach **how** to program the Commodore 64.
+
+Some explain **why** specific techniques work.
+
+The Commodore 64 Bible seeks to reconstruct the complete engineering knowledge behind the machine.
+
+It is not only about preserving what is already known.
+
+It is also about rediscovering, analyzing and explaining the knowledge that was never formally documented.
+
+Throughout the commercial lifetime of the Commodore 64, thousands of programmers continuously pushed the machine beyond what many believed were its physical limits.
+
+Some techniques appeared in books and magazines.
+
+Others existed only inside commercial software, demos or private development notes.
+
+Many were never fully explained.
+
+Some survived only through fragments of source code, reverse engineering efforts, interviews and community knowledge.
+
+The Commodore 64 Bible aims to recover, verify and preserve this engineering heritage.
+
+Among the subjects explored are:
+
+* forgotten programming techniques;
+* reverse engineered algorithms;
+* undocumented hardware behaviours;
+* optimization tricks;
+* design patterns hidden inside commercial software;
+* loader architectures;
+* memory management strategies;
+* cycle-perfect raster timing;
+* compression and decompression methods;
+* self-modifying code techniques;
+* and the engineering ideas that allowed developers to achieve results once considered impossible on an 8-bit computer.
+
+Every routine has a purpose.
+
+Every optimization has a reason.
+
+Every trick tells a story.
 
 ---
 
-## Why this project exists
+# A Technical Knowledge Reconstruction Project
 
-The Commodore 64 remains the best-selling personal computer in history and one of the most influential machines ever created.
+The Commodore 64 Bible is not only a reverse engineering project.
 
-It introduced millions of people to programming, electronics, music synthesis and game development.
+Reverse engineering is one of the tools used to achieve a larger goal:
 
-Over the decades, an enormous amount of knowledge has been scattered across:
+**the reconstruction of lost and scattered technical knowledge.**
 
-* books;
-* magazines;
-* technical articles;
-* demo scene productions;
-* commercial games;
-* source code releases;
-* personal notes of programmers;
-* hardware documentation;
-* community forums and archives.
+The project combines:
 
-The Commodore 64 Bible exists to gather, verify and organize this knowledge into a coherent, structured and continuously evolving reference for future generations.
+* original documentation;
+* books and magazines;
+* hardware analysis;
+* source code studies;
+* reverse engineering;
+* emulator experiments;
+* real hardware testing;
+* benchmarking;
+* historical research;
+* community knowledge.
 
----
-
-## Our Philosophy
-
-The Commodore 64 Bible is a **living project**.
-
-It does not seek to preserve nostalgia.
-
-It seeks to preserve knowledge.
-
-We believe that:
-
-* understanding is more valuable than memorization;
-* experiments are more valuable than assumptions;
-* documentation is as important as code;
-* history deserves technical accuracy;
-* knowledge grows when it is shared.
-
-Read the full philosophy here:
-
-? **docs/en/ProjectPhilosophy.md**
+The objective is to rebuild a complete understanding of how programmers achieved extraordinary results with extremely limited hardware.
 
 ---
 
-## Repository Structure
+# There Is Always Another Limit
+
+Throughout the history of the Commodore 64, one sentence has been repeated many times:
+
+> "The Commodore 64 has finally reached its limits."
+
+And yet, every generation of programmers proved that statement wrong.
+
+Over the years, the community introduced innovations such as:
+
+* sprite multiplexing;
+* Full Screen FLI;
+* Interlace FLI;
+* DYCP;
+* FLD;
+* VSP;
+* advanced SID digital playback;
+* sophisticated fast loaders;
+* cycle-perfect raster effects;
+* advanced memory streaming techniques;
+* and countless other discoveries.
+
+Commercial games such as:
+
+* **Mayhem in Monsterland**
+* **Turrican II**
+
+demonstrated techniques that many believed impossible on an 8-bit home computer.
+
+Decades later, productions such as:
+
+* **Edge of Disgrace**
+* **Uncensored**
+
+continued to redefine what the Commodore 64 could achieve.
+
+Every new breakthrough moved the boundary a little further.
+
+The limits of the Commodore 64 were rarely imposed by its hardware.
+
+They were imposed by what programmers had not yet discovered.
+
+---
+
+# A Living Platform
+
+The story of the Commodore 64 did not end in the 1990s.
+
+Modern developers continue to:
+
+* discover new techniques;
+* refine historical approaches;
+* create new demos and games;
+* challenge old assumptions;
+* explore the machine in ways never imagined before.
+
+The Commodore 64 Bible documents both the historical evolution of the platform and the continuing discoveries of today's community.
+
+---
+
+# Project Philosophy
+
+The project follows a simple principle:
+
+> Understanding is more valuable than copying.
+
+Every technical analysis should explain:
+
+* what happens;
+* why it happens;
+* how it works;
+* why programmers chose that solution;
+* what limitations existed;
+* what alternatives were possible.
+
+Documentation is considered part of the implementation.
+
+---
+
+# Research Methodology
+
+Every investigation follows a scientific approach:
 
 ```
-commodore64-bible/
+Observe
 
-    bible/          Official verified documentation
+?
 
-    docs/           Project documentation and standards
+Experiment
 
-    journal/        Research notes and development diary
+?
 
-    lab/            Experiments and hardware investigations
+Measure
 
-    src/            Assembly source code and libraries
+?
 
-    reverse/        Reverse engineering projects
+Verify
 
-    examples/       Minimal working examples
+?
 
-    games/          Educational game projects
-
-    references/     Books, magazines and historical sources
-
-    assets/         Logos, diagrams and images
-
-    tools/          Build and utility scripts
+Document
 ```
 
----
+When information is uncertain:
 
-## Two Worlds: Laboratory and Bible
-
-### Laboratory
-
-The place where ideas are explored.
-
-* experiments;
-* prototypes;
-* measurements;
-* failed attempts;
-* discoveries;
-* ongoing investigations.
-
-Nothing here is considered final.
-
-### Bible
-
-The official knowledge base.
-
-Only information that has been verified, documented and reviewed enters the Bible.
-
-This separation allows the project to remain both **scientifically rigorous** and **creatively experimental**.
+* uncertainty is declared;
+* assumptions are identified;
+* different theories are documented;
+* conclusions are supported by evidence.
 
 ---
 
-## Research Notes (Pillole del Giorno)
+# Repository Structure
 
-The project advances through small, self-contained research units called **Research Notes (RN)**, affectionately known as **Pillole del Giorno**.
+The project is organized into different areas.
 
-Each Research Note focuses on **one concept only** and follows a consistent structure:
+## docs/
 
-1. Theory
-2. Historical Context
-3. Hardware Analysis
-4. Assembly Implementation
-5. Practical Experiment
-6. Reverse Engineering Notes
-7. References
+Project documentation, philosophy, standards and guidelines.
 
-The objective is to make every topic understandable in a single focused study session.
-
----
-
-## Historical Accuracy
-
-Whenever possible we ask:
-
-**"How did Commodore 64 programmers actually solve this problem in 1987?"**
-
-For each technique we distinguish between:
-
-* **Historical Implementation**;
-* **Modern Interpretation**;
-* **Why that original solution was chosen**.
-
-The goal is not merely to reproduce old code, but to understand the engineering constraints and design decisions of the time.
-
----
-
-## Assembly Standards
-
-The historical reference environment is:
-
-**Turbo Macro Pro compatible syntax (TMPx)**
-
-Modern compatibility targets include:
-
-* Kick Assembler;
-* 64tass;
-* other modern 6502/6510 assemblers.
-
-Source code remains in English and is written with meaningful labels and extensive documentation.
-
----
-
-## International Project
-
-English is the canonical language of the project.
-
-Translations are organized by language directories:
+Languages:
 
 ```
 docs/
@@ -196,95 +227,181 @@ docs/
     en/
 
     it/
-
-    ...
 ```
 
-Technical terminology and source code remain consistent across all translations.
+English is the canonical language.
 
-See:
-
-? **docs/en/TranslationPolicy.md**
+Translations preserve the original structure.
 
 ---
 
-## Scientific Method
+## bible/
 
-The Commodore 64 Bible follows a research-oriented methodology:
+The official knowledge base.
 
-**Observe -> Experiment -> Measure -> Verify -> Document -> Repeat**
-
-Whenever uncertainty exists, it is explicitly stated.
-
-Whenever possible, claims are supported by original documentation, experiments or historical sources.
+Contains reviewed and stable documentation.
 
 ---
 
-## Current Milestone
+## laboratory/
 
-### M0 -- Project Foundation ?
+The experimental area.
 
-* repository structure;
-* multilingual architecture;
-* project philosophy;
-* translation policy;
-* documentation templates;
-* editorial standards.
+Contains:
 
-### M1 -- Project Identity (in progress)
-
-* official README;
-* project roadmap;
-* contribution guide;
-* first Research Note.
+* prototypes;
+* experiments;
+* investigations;
+* unfinished research.
 
 ---
 
-## How to Contribute
+## research-notes/
 
-Contributions are welcome in many forms:
+Technical research notes and discoveries.
 
-* technical documentation;
-* assembly code;
-* reverse engineering analysis;
-* historical research;
-* magazine indexing;
-* hardware experiments;
+Each note documents a specific investigation.
+
+---
+
+# Research Notes
+
+The project uses numbered research documents.
+
+Example:
+
+```
+RN-0001
+
+Research Note
+```
+
+Each note represents a small but complete investigation.
+
+The philosophy is:
+
+Small steps.
+
+Deep understanding.
+
+Permanent knowledge.
+
+---
+
+# Reliability Levels
+
+Technical content may have one of these classifications:
+
+## Verified
+
+Confirmed through testing or reliable sources.
+
+## Inferred
+
+Derived through analysis but not completely confirmed.
+
+## Historical
+
+Based on original documentation, interviews or historical sources.
+
+## Experimental
+
+Currently under investigation.
+
+---
+
+# Assembly Philosophy
+
+The project studies the original programming techniques used by Commodore 64 developers.
+
+Reference environments:
+
+Historical:
+
+* Turbo Macro Pro compatible syntax.
+
+Modern:
+
+* Kick Assembler;
+* other 6502/6510 assemblers.
+
+The goal is not only to reproduce old code.
+
+The goal is to understand the engineering decisions behind it.
+
+---
+
+# Community
+
+The Commodore 64 Bible belongs to the knowledge it preserves and to the community that helps it grow.
+
+Everyone is welcome to contribute:
+
+* documentation;
 * translations;
-* proofreading and review.
+* experiments;
+* historical information;
+* reverse engineering analysis;
+* corrections.
 
-Please read the contribution guidelines before submitting changes.
-
----
-
-## Project Motto
-
-Every session begins with one word:
-
-```
-READY.
-```
-
-For us, READY no longer means that BASIC is waiting.
-
-It means that curiosity is ready.
-
-Research is ready.
-
-Learning is ready.
-
-The laboratory is open.
+Knowledge grows when it is shared.
 
 ---
 
-## Final Statement
+# Project Status
+
+Current milestone:
+
+```
+Milestone M0 - Foundation
+
+? Repository structure
+? Documentation standards
+? Project philosophy
+? Translation policy
+? Document templates
+```
+
+Next milestones:
+
+```
+Milestone M1
+
+Project identity and documentation
+
+?
+
+Milestone M2
+
+First technical research notes
+
+?
+
+Milestone M3
+
+Assembly programming studies
+
+?
+
+Milestone M4
+
+Reverse engineering case studies
+```
+
+---
+
+# Final Statement
 
 The Commodore 64 Bible is not a monument to the past.
 
 It is a bridge between generations.
 
-It preserves the knowledge of yesterday,
-explains it today,
-and inspires the programmers of tomorrow.
+It preserves the knowledge of yesterday.
 
-**READY.**
+It explains it today.
+
+It inspires the programmers of tomorrow.
+
+---
+
+READY.
