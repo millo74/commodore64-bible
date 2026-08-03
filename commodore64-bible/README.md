@@ -178,6 +178,44 @@ Documentation is considered part of the implementation.
 
 ---
 
+# The Knowledge Trail
+
+The Commodore 64 Bible is not intended to be read from beginning to end like a traditional book.
+
+Instead, it is organized as a **Knowledge Trail**: a progressive journey through the architecture, hardware and software of the Commodore 64.
+
+Each topic represents a stage along the trail.
+
+Some stages are easy and introduce fundamental concepts.
+
+Others require previous experience and lead to increasingly advanced subjects.
+
+Every stage provides:
+
+- clearly defined prerequisites;
+- estimated difficulty;
+- practical experiments;
+- historical context;
+- engineering insights;
+- references for further exploration.
+
+Along the trail, readers will also encounter special landmarks:
+
+- **Historical Stops** -- how programmers approached the problem at the time;
+- **Laboratory Stops** -- experiments that can be reproduced;
+- **Research Stops** -- open questions and ongoing investigations;
+- **Reverse Engineering Stops** -- real code taken from commercial software;
+- **Vista Points** -- moments to pause, reflect and connect previously learned concepts;
+- **Mountain Huts** -- summary stages containing reviews, exercises, references and preparation for the next section.
+
+The goal is not to reach the end as quickly as possible.
+
+The goal is to understand every step of the journey.
+
+Knowledge built slowly is knowledge that lasts.
+
+---
+
 # Research Methodology
 
 Every investigation follows a scientific approach:
