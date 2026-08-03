@@ -78,7 +78,8 @@ La Commodore 64 Bible vuole diventare:
 * un laboratorio di reverse engineering;
 * un archivio storico;
 * una guida alla programmazione Assembly;
-* un progetto di preservazione.
+* un progetto di preservazione;
+* un percorso di apprendimento strutturato attraverso il Sentiero della Conoscenza.
 
 ---
 
@@ -167,6 +168,38 @@ Il codice Assembly ottimizzato può diventare difficile da leggere.
 Il progetto privilegia la chiarezza rispetto all'ottimizzazione prematura.
 
 Ogni ottimizzazione deve avere una motivazione documentata.
+
+---
+
+## 7. Il Principio della Montagna
+
+La Bibbia del Commodore 64 è costruita attorno all'idea che la conoscenza non si consuma, ma si esplora.
+
+Apprendere non è un processo lineare laddove l'informazione è semplicemente raccolto e dimenticato.
+
+E' un viaggio.
+
+Ogni tappa o sosta rappresenta un passo avanti.
+
+Ogni sosta ad un Belvedere rappresenta un momento di riflessione.
+
+Ogni Rifugio/Bivacco rappresenta consolidazione della conoscenza acquisita.
+
+Ogni vetta rappresenta il momento quando la comprensione diventa padronanza.
+
+Ad ogni modo, raggiungere una Cima non significa che il viaggio è terminato.
+
+Da ogni picco, nuove montagne e cime diventano visibili.
+
+Ogni traguardo rivela nuove domande, concetti più profondi e territori inesplorati.
+
+L'obiettivo di questo progetto non è solo di insegnare il Commodore 64.
+
+L'obiettivo è di aiutare le persone a diventare programmatori Commodore 64.
+
+La Conoscenza non è la Destinazione.
+
+La Conoscenza è il percorso!
 
 ---
 
@@ -302,5 +335,8 @@ La Commodore 64 Bible non è un monumento al passato.
 Preserva la conoscenza di ieri,
 la spiega oggi,
 e ispira i programmatori di domani.
+
+Il Viaggio prosegue.
+Ogni vetta rivela un nuovo orizzonte.
 
 READY.

@@ -76,7 +76,8 @@ The Commodore 64 Bible aims to become:
 * a reverse engineering laboratory;
 * a historical archive;
 * an assembly programming guide;
-* a preservation project.
+* a preservation project;
+* a structured learning journey through the Knowledge Trail.
 
 ---
 
@@ -165,6 +166,38 @@ Optimized assembly code can become difficult to read.
 The project values clarity before premature optimization.
 
 Every optimization should have a documented reason.
+
+---
+
+## 7. The Mountain Principle
+
+The Commodore 64 Bible is built around the idea that knowledge is not consumed, but explored.
+
+Learning is not a linear process where information is simply collected and forgotten.
+
+It is a journey.
+
+Every stage represents a step forward.
+
+Every Vista Point represents a moment of reflection.
+
+Every Mountain Hut represents consolidation of acquired knowledge.
+
+Every Summit represents the moment when understanding becomes mastery.
+
+However, reaching a Summit does not mean the journey is complete.
+
+From every peak, new mountains become visible.
+
+Every achievement reveals new questions, deeper concepts and unexplored territories.
+
+The goal of this project is not only to teach the Commodore 64.
+
+The goal is to help people become Commodore 64 programmers.
+
+Knowledge is not a destination.
+
+Knowledge is the trail.
 
 ---
 
@@ -302,5 +335,8 @@ It is a bridge between generations.
 It preserves the knowledge of yesterday,
 explains it today,
 and inspires the programmers of tomorrow.
+
+The journey continues.
+Every summit reveals a new horizon.
 
 READY.
