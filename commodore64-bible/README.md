@@ -428,6 +428,20 @@ Reverse engineering case studies
 
 ---
 
+# Choose Your Own Trail
+
+There is no single way to learn the Commodore 64.
+
+There are many trails leading to the same summit.
+
+Choose the one that matches your curiosity.
+
+Whether your goal is to write games, understand the hardware, reverse engineer commercial software or simply discover how one of the most influential computers in history really worked...
+
+...there is a trail waiting for you.
+
+---
+
 # Final Statement
 
 The Commodore 64 Bible is not a monument to the past.
