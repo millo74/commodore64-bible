@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="800">
+<rect width="1400" height="800" fill="#fbfaf7"/>
+<text x="700" y="55" text-anchor="middle" font-family="sans-serif" font-size="38" font-weight="bold">The C64 Specialist Team</text>
+<text x="700" y="90" text-anchor="middle" font-family="sans-serif" font-size="18">A first mental model</text>
+<g font-family="sans-serif" text-anchor="middle">
+<rect x="80" y="160" width="260" height="230" rx="24" fill="#e8e0d5" stroke="#333" stroke-width="4"/><text x="210" y="220" font-size="34" font-weight="bold">6510</text><text x="210" y="270" font-size="24">CPU</text><text x="210" y="315" font-size="18">Executes instructions</text><text x="210" y="345" font-size="18">and orchestrates work</text>
+<rect x="400" y="160" width="260" height="230" rx="24" fill="#e8e0d5" stroke="#333" stroke-width="4"/><text x="530" y="220" font-size="34" font-weight="bold">VIC-II</text><text x="530" y="270" font-size="24">Video</text><text x="530" y="315" font-size="18">Graphics, sprites,</text><text x="530" y="345" font-size="18">raster and display</text>
+<rect x="720" y="160" width="260" height="230" rx="24" fill="#e8e0d5" stroke="#333" stroke-width="4"/><text x="850" y="220" font-size="34" font-weight="bold">SID</text><text x="850" y="270" font-size="24">Audio</text><text x="850" y="315" font-size="18">Sound synthesis,</text><text x="850" y="345" font-size="18">music and effects</text>
+<rect x="1040" y="160" width="260" height="230" rx="24" fill="#e8e0d5" stroke="#333" stroke-width="4"/><text x="1170" y="220" font-size="34" font-weight="bold">CIA</text><text x="1170" y="270" font-size="24">I/O</text><text x="1170" y="315" font-size="18">Keyboard, joystick,</text><text x="1170" y="345" font-size="18">timers and interfaces</text>
+<rect x="270" y="500" width="860" height="150" rx="24" fill="#eee9df" stroke="#333" stroke-width="4"/><text x="700" y="555" font-size="30" font-weight="bold">MEMORY</text><text x="700" y="600" font-size="21">Programs • data • graphics • music • tables • buffers</text>
+</g>
+</svg>

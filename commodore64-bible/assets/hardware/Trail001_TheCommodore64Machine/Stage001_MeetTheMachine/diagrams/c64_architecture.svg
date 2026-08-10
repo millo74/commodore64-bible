@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900">
+<rect width="1400" height="900" fill="#faf9f6"/>
+<text x="700" y="55" text-anchor="middle" font-family="sans-serif" font-size="38" font-weight="bold">Commodore 64 — Conceptual Architecture</text>
+<text x="700" y="92" text-anchor="middle" font-family="sans-serif" font-size="18">Educational model — not an electrical schematic</text>
+<g font-family="sans-serif" font-weight="bold" text-anchor="middle">
+<rect x="540" y="140" width="320" height="110" rx="18" fill="#e5ded2" stroke="#333" stroke-width="4"/><text x="700" y="205" font-size="34">6510 CPU</text>
+<rect x="90" y="330" width="260" height="120" rx="18" fill="#e7e0d5" stroke="#333" stroke-width="4"/><text x="220" y="385" font-size="30">VIC-II</text><text x="220" y="420" font-size="18" font-weight="normal">Video / Graphics</text>
+<rect x="410" y="330" width="260" height="120" rx="18" fill="#e7e0d5" stroke="#333" stroke-width="4"/><text x="540" y="385" font-size="30">SID</text><text x="540" y="420" font-size="18" font-weight="normal">Sound / Music</text>
+<rect x="730" y="330" width="260" height="120" rx="18" fill="#e7e0d5" stroke="#333" stroke-width="4"/><text x="860" y="385" font-size="30">CIA 1</text><text x="860" y="420" font-size="18" font-weight="normal">I/O / Timers</text>
+<rect x="1050" y="330" width="260" height="120" rx="18" fill="#e7e0d5" stroke="#333" stroke-width="4"/><text x="1180" y="385" font-size="30">CIA 2</text><text x="1180" y="420" font-size="18" font-weight="normal">I/O / Timers</text>
+<rect x="280" y="600" width="840" height="150" rx="20" fill="#eee9df" stroke="#333" stroke-width="4"/><text x="700" y="655" font-size="30">MEMORY &amp; MEMORY MAPPING</text><text x="700" y="695" font-size="20" font-weight="normal">RAM • ROM • I/O • banking / visibility</text>
+</g>
+<g stroke="#555" stroke-width="5" fill="none">
+<path d="M650 250 L220 330"/><path d="M700 250 L540 330"/><path d="M750 250 L860 330"/><path d="M800 250 L1180 330"/>
+<path d="M220 450 L400 600"/><path d="M540 450 L560 600"/><path d="M860 450 L800 600"/><path d="M1180 450 L1000 600"/>
+</g>
+<text x="700" y="825" text-anchor="middle" font-family="sans-serif" font-size="20">The real bus architecture and arbitration will be studied later.</text>
+</svg>

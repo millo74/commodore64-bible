@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900">
+<rect width="1400" height="900" fill="#f7f7f7"/>
+<text x="700" y="55" text-anchor="middle" font-family="sans-serif" font-size="36" font-weight="bold">C64 Motherboard — Learning Map</text>
+<text x="700" y="88" text-anchor="middle" font-family="sans-serif" font-size="18">Conceptual placement, not a board-revision-accurate map</text>
+<rect x="120" y="140" width="1160" height="650" rx="28" fill="#b9c8ad" stroke="#333" stroke-width="5"/>
+<g font-family="sans-serif" font-weight="bold" text-anchor="middle">
+<rect x="190" y="220" width="190" height="85" rx="12" fill="#ddd" stroke="#333" stroke-width="3"/><text x="285" y="272" font-size="26">6510 CPU</text>
+<rect x="450" y="220" width="190" height="85" rx="12" fill="#ddd" stroke="#333" stroke-width="3"/><text x="545" y="272" font-size="26">VIC-II</text>
+<rect x="710" y="220" width="190" height="85" rx="12" fill="#ddd" stroke="#333" stroke-width="3"/><text x="805" y="272" font-size="26">SID</text>
+<rect x="970" y="220" width="190" height="85" rx="12" fill="#ddd" stroke="#333" stroke-width="3"/><text x="1065" y="272" font-size="26">CIA</text>
+<rect x="250" y="390" width="240" height="90" rx="12" fill="#eee" stroke="#333" stroke-width="3"/><text x="370" y="445" font-size="24">RAM BANK</text>
+<rect x="580" y="390" width="240" height="90" rx="12" fill="#eee" stroke="#333" stroke-width="3"/><text x="700" y="445" font-size="24">ROMs</text>
+<rect x="910" y="390" width="240" height="90" rx="12" fill="#eee" stroke="#333" stroke-width="3"/><text x="1030" y="445" font-size="24">PLA / I/O</text>
+<rect x="420" y="560" width="560" height="100" rx="14" fill="#eee" stroke="#333" stroke-width="3"/><text x="700" y="620" font-size="26">SYSTEM BUS / SIGNALS</text>
+</g>
+<g stroke="#555" stroke-width="4" fill="none">
+<path d="M285 305 L370 390"/><path d="M545 305 L700 390"/><path d="M805 305 L700 390"/><path d="M1065 305 L1030 390"/>
+<path d="M370 480 L560 560"/><path d="M700 480 L700 560"/><path d="M1030 480 L840 560"/>
+</g>
+<text x="700" y="735" text-anchor="middle" font-family="sans-serif" font-size="20">Use this image only as an orientation aid; real revisions differ.</text>
+</svg>
